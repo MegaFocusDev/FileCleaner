@@ -1,6 +1,6 @@
-<h1>File Cleaner</h1>
+<h1 align="center">File Cleaner</h1>
 <p>File Cleaner is a Python program that helps you to delete all of the unnecessary files with a specified file extension like <code>.png</code> in a directory. With it, you can also delete the same type of files in subdirectories of the chosen directory, so you can quickly and easily clear up space and get rid of the unnecessary files on your hard drive.</p>
-<h3>Examples of use purposes</h3>
+<h2>Examples of use purposes</h2>
 <p>Here are some examples of how you could use File Cleaner:</p>
 <ul>
 
@@ -18,7 +18,7 @@
 
 </ul>
 
-<h3>How to Use</h3>
+<h2>How to Use</h2>
 <p>To use File Cleaner, follow these steps:</p>
 <ol>
 
@@ -33,12 +33,8 @@
 </ol>
 <p>That’s it! You can now use File Cleaner to clean up your unnecessary files and free up valuable disk space.</p>
 
-</ol>
-<p>That’s it! With these simple steps, you can start using File Cleaner to clean up your unnecessary files and free up valuable disk space.</p>
-
-<h3>License</h3>
+<h2>License</h2>
 <p>This program is licensed under the MIT License. This means that you are free to use, modify, and distribute the code as long as you include the appropriate license and credit to the original source.</p>
 
-<h3>Contributing</h3>
+<h2>Contributing</h2>
 <p>If you would like to contribute to the program, you are welcome to submit a pull request with your changes. Please note that all contributions are subject to the same MIT license as the original program.</p>
-<p>Thanks for your interest in File Cleaner!</p>
